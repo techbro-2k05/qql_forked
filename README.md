@@ -1,6 +1,6 @@
 # QQL - QuickQueryLanguage
 
-![Introduction Slide](generated/intro_page.png)
+![Introduction Slide](generated/intro_page)
 
 **QQL** (QuickQueryLanguage) is a simple interactive SQL shell built on top of PostgreSQL,
 with support for query parsing, approximate query extensions, and pretty-printed results
